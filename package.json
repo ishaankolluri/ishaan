@@ -35,5 +35,8 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "devDependencies": {
+    "tachyons": "^4.10.0"
   }
 }
